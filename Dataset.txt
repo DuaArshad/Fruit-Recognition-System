@@ -1,0 +1,5 @@
+Dataset:
+
+The Dataset is taken from kaggle. The link is mentioned below:
+
+https://www.kaggle.com/moltean/fruits
